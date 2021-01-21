@@ -1,2 +1,2 @@
 # video-games
-A wiki for the video games I played.
+A repo for my video gaming activity.
